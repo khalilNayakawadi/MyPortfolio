@@ -1,0 +1,22 @@
+.landingdiv{
+    font-size: 60px;
+    padding: 130px;
+    font-weight: 900;
+    line-height: 80px;
+}
+
+.landspans{
+    color: #6DC5D1;
+}
+
+.desimg{
+    height: 500px;
+    width: 500px;
+   margin-top: -80px;
+   margin-left: 120px;
+}
+
+.socialicon{
+    height: 40px;
+    width: 40px;
+}
