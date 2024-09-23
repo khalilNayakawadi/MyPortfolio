@@ -1,0 +1,18 @@
+@media screen and (max-width: 600px){
+    .landingdiv{
+        padding: 30px;
+        font-size: 30px;
+    }
+
+    .desimg{
+        height: 500px;
+        width: 500px;
+        margin-top: -80px;
+        margin-left: 30px;
+    }
+
+    .socialicon{
+        height: 40px;
+        width: 40px;
+}
+}
