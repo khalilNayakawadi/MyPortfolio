@@ -1,5 +1,6 @@
 @media screen and (max-width: 600px){
     .landingdiv{
+        padding-top: 50px;
         padding: 30px;
         font-size: 45px;
         line-height: 60px;
@@ -28,9 +29,9 @@
     border-radius: 50%;
 }
 .aboutdiv{
-    height: 900px;
+    height: 940px;
     width: 100%;
-    margin-top: 20px;
+   margin: 20px;
     
 }
 
@@ -40,6 +41,7 @@
     margin-bottom: 20px;
 }
 .aboutcontent{
+    font-size: 20px;
     margin-top: -20px;
     padding: 55px;
     line-height: 35px;
