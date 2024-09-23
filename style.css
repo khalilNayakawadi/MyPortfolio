@@ -73,3 +73,15 @@
     text-align: center;
     background-color: black;
 }
+
+.projects{
+    margin-top: 60px;
+}
+
+.projectrow{
+    margin-top: 40px;
+}
+
+.primg{
+    height: 190px;
+}
