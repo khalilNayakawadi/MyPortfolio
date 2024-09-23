@@ -26,10 +26,15 @@
     box-shadow: 0px 1px 3px g;
 }
 
+.imgcol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+
+}
+
 .myimg{
-    margin-bottom: 40px;
-    margin-left: 30px;
-    margin-top: 40px;
     height: 420px;
     width: 420px;
     border-radius: 50%;
