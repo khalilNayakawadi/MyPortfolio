@@ -1,8 +1,8 @@
 @media screen and (max-width: 600px){
     .landingdiv{
         padding: 30px;
-        font-size: 35px;
-        line-height: 40px;
+        font-size: 45px;
+        line-height: 60px;
     }
 
     .desimg{
@@ -13,8 +13,8 @@
     }
 
     .socialicon{
-        margin-top: 20px;
-        height: 35px;
-        width: 35px;
+        margin-top: 30px;
+        height: 50px;
+        width: 50px;
 }
 }
