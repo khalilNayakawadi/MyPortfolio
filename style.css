@@ -123,3 +123,8 @@
     text-decoration: none;
     color: white;
 }
+
+.projectdiv:hover{
+    -webkit-animation: rotate-diagonal-2 2s linear both;
+	        animation: rotate-diagonal-2 2s linear both;
+}
