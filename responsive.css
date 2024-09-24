@@ -1,44 +1,45 @@
-@media screen and (max-width: 600px){
+@media (min-width:319px)and (max-width: 490px){
     .landingdiv{
         padding: 30px;
-        font-size: 45px;
+        font-size: 50px;
         line-height: 60px;
     }
 
     .desimg{
-        height: 400px;
-        width: 400px;
+        height: 300px;
+        width: 300px;
         margin-top: 10px;
-        margin-left: 30px;
+        margin-left: 10px;
     }
 
     .socialicon{
-        margin-top: 30px;
-        height: 50px;
-        width: 50px;
+        margin-top: 40px;
+        height: 35px;
+        width: 35px;
         margin-left: 10px;
 }
     .myimg{
-    height: 250px;
-    width: 250px;
+    height: 210px;
+    width: 210px;
     margin-left: 20px;
     border-radius: 50%;
 }
 .aboutdiv{
-    height: 1030px;
-    width: 90%;
-   margin-left: 5%;
+    height: 1000px;
+    width: 95%;
+   margin-left: 2.5%;
+   padding: 0px;
 }
 
 .heading{
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
     margin-bottom: 20px;
 }
 .aboutcontent{
     font-size: 20px;
     margin-top: -20px;
-    padding: 50px;
+    padding: 25px;
     line-height: 30px;
 }
 
@@ -47,7 +48,7 @@
     
 }
 .primg{
-    height: 290px;
+    height: 230px;
 }
 
 .contactform{
@@ -57,5 +58,14 @@
     padding: 30px;
 }
 
+.footer{
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
 
 }
