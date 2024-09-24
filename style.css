@@ -117,8 +117,9 @@
 }
 
 .footrow a {
+    align-items: center;
+    justify-content: center;
     margin-top: 10px;
-    display: inline;
     text-decoration: none;
     color: white;
 }
