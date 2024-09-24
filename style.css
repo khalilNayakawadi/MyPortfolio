@@ -88,13 +88,14 @@
 
 .prheading{
     color: #00aaff;
+    margin-left: 10px;
 }
 
 .contactform{
     background-color: #393e46b8;
     margin-top: 40px;
     margin-bottom: 40px;
-  
+    padding: 20px;
 }
 
 .formrow{
@@ -102,5 +103,22 @@
 }
 
 .row1{
+    justify-content: center;
+}
 
+.footer{
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.footrow a {
+    margin-top: 10px;
+    display: inline;
+    text-decoration: none;
+    color: white;
 }
