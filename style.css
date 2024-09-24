@@ -87,8 +87,9 @@
 }
 
 .prheading{
+    font-size: 30px;
     color: #00aaff;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .contactform{
