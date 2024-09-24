@@ -25,7 +25,7 @@
     border-radius: 50%;
 }
 .aboutdiv{
-    height: 1000px;
+    height: 1030px;
     width: 90%;
    margin-left: 5%;
 }
@@ -49,4 +49,13 @@
 .primg{
     height: 290px;
 }
+
+.contactform{
+    background-color: #393e46b8;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 30px;
+}
+
+
 }
