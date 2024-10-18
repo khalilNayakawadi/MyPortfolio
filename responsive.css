@@ -1,8 +1,8 @@
 @media (min-width:360px)and (max-width: 600px){
     .landingdiv{
-        padding: 15px;
-        font-size: 50px;
-        line-height: 60px;
+        padding: 3px;
+        font-size: 37px;
+        line-height: 50px;
         font-weight: 780;
     }
 
@@ -20,7 +20,7 @@
     }
 
     .socialicon{
-        margin-top: 40px;
+        margin-top: 30px;
         height: 45px;
         width: 45px;
         margin-left: 5px;
