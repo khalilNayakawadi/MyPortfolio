@@ -33,7 +33,7 @@ const animatDesignation = ()=>{
 window.addEventListener('load', () => {
     setInterval(animatName, 200);
     setTimeout(() => {
-        setInterval(animatDesignation,200)
+        setInterval(animatDesignation,200) // after 4 sec this function will get executed
     }, 4000);
     
 });
