@@ -1,4 +1,7 @@
 @media (min-width:360px)and (max-width: 600px){
+    *{
+	 font-family: "Poppins", sans-serif;
+}
     .landingdiv{
         padding: 15px;
         font-size: 9.5vw;
