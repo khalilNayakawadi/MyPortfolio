@@ -2,7 +2,7 @@
 	 font-family: "Poppins", sans-serif;
 }
 .landingdiv{
-    font-size: 57px;
+    font-size: 50px;
     padding: 130px;
     font-weight: 900;
     line-height: 80px;
@@ -42,6 +42,7 @@
     border-radius: 50%;
 }
 .aboutdiv{
+    text-align:"justify";
     height: 540px;
     width: 100%;
     margin-top: 40px;
